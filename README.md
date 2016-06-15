@@ -23,4 +23,21 @@ So how do you actually find these contacts? Let’s go over two approaches.
 5. **Send those drafts** to your coach
 6. Once you get feedback, **send your polished emails** to these potential new contacts!
 
+
+## Approach #2 - Using Job Postings to Guide Your Outreach 
+1. Use sites like LinkedIn, StackoverflowCareers, Indeed, and other niche job search sites to create a list of jobs that you’re interested in. Start with 20. 
+2. Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.  
+  - Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “engineers”, “developers”, and people who work in human resources or recruiting (sometimes called “talent acquisition”).
+  - List at least 1 of each kind of employee (1 dev and 1 person working in recruiting/HR) in your Tracker on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer. 
+3. **Locate the contact information** for these people. This [website](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can help you figure that out. 
+4. **Draft emails** to the people you plan to reach out to. Again we’ll cover communication best practices in future lessons, but here’s an example of an upcoming [lesson] (https://github.com/learn-co-curriculum/careers-opening-the-line-of-communication) that’ll help you with this. 
+5. **Send those drafts** to your coach
+6. Once you get feedback, **send your polished emails** to these potential new contacts!
+
+Notice that both of these approaches are very similar. The main difference is in the first step. Are you looking at companies? Or are you looking at jobs? And if you’re looking at jobs, then it’s a good idea to prioritize finding the contact info of someone who works in HR since the company is actively looking to fill positions. 
+
+After that, you’ll draft emails and send them to your coach for review. Since we expect three emails from you every day, it might be best to plan ahead so that you can get the appropriate feedback from your coach. In other words, if you still haven’t sent out your emails for Tuesday, then don’t wait until Tuesday morning to get feedback from your coach!
+
+This might sound like a lot of work, and in fact, it is. But when you’re prepared, focused, and have a plan of action, you’ll stop thinking of it as a chore and instead just one big exciting step to get you closer to where you want to be!
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-job-search-tracker'>Careers Job Search Tracker</a> on Learn.co and start learning to code for free.</p>
