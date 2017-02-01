@@ -8,7 +8,7 @@ It’s super important to make a schedule for yourself. Going to the gym might n
 
 Your ultimate goal is to land a job. 
 
-The first building block to this goal is to send at least 8 e-mails per week to real humans, who are relevant to your job search. That could be hiring managers, recruiters, fellow engineers you admire, CTOs at companies you're interested in, or networking contacts you know already or met at an event. Log all of your activity in your [job search tracker](https://docs.google.com/spreadsheets/d/1B3Xn3eXOCz-8PTo1BKv-JRVAS7Hsz3UNx__6YJK14Ps/edit#gid=831244638).
+The first building block to this goal is to send at least 8 e-mails per week to real humans, who are relevant to your job search. That could be hiring managers, recruiters, fellow engineers you admire, CTOs at companies you're interested in, or networking contacts you know already or met at an event. Log all of your activity in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896).
 
 Keep in mind that some leads that you pursue will respond quickly, while others might take a week or two to get back to you. Some you won’t ever hear from, and that’s okay. This is why we suggest the amount of activity that we do, because we know what amount of activity it takes to run a successful job search. 
 
