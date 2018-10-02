@@ -1,48 +1,31 @@
 # Your Job Search Action Plan 
 
-We’re going to cover a lot in this track. From building your online presence to networking effectively to writing a compelling resume, everything you read will set you on the path to landing a job offer.  
+We’re going to cover a lot in this track. From building your online presence to networking effectively to writing a compelling resume. Everything you read will set you on the path to landing a job offer.  
 
 But reading alone isn’t enough and it’s important that you start your job outreach from day one. Don’t wait until the end of this track to get started. In this lesson we’re going to create an action plan for you that will tie together all the useful advice in the upcoming units. 
 
-It’s super important to make a schedule for yourself. Going to the gym might not be something you’re excited about, but if you plan the time in advance, getting yourself there can be easier. In the same way, making a job search plan will make you more motivated to get started and stick to your plan.  Just like forming a habit of going to the gym can be easier. 
+## Time Management
 
-Your ultimate goal is to land a job. 
+It can feel a bit overwhelming to transition from your Flatiron program into job search mode. Whether you were an immersive or online student, you likely had a very robust, intensive, structured schedule that guided your every action, day after day, until your program completion. So what can you do after you’ve graduated to ensure the same amount of structure, momentum and progress, but in your job search? You create a whole new plan for smart time management!
 
-The first building block to this goal is to send at least 8 e-mails per week to real humans, who are relevant to your job search. That could be hiring managers, recruiters, fellow engineers you admire, CTOs at companies you're interested in, or networking contacts you know already or met at an event. Log all of your activity in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896).
+Consider for a moment how you successfully managed your life to complete your Flatiron program. How did you organize yourself? What support mechanisms did you put into place? What strategies did you use to prioritize your time effectively? Take advantage of the smart habits and methods you used in your program and begin applying them directly into your job search action plan.
 
-Keep in mind that some leads that you pursue will respond quickly, while others might take a week or two to get back to you. Some you won’t ever hear from, and that’s okay. This is why we suggest the amount of activity that we do, because we know what amount of activity it takes to run a successful job search. 
+Since a successful job search requires commitment and consistent action and you are the person responsible for leading and steering your job search, how you effectively manage your time will directly impact your success in getting a job, and the amount of time it takes to get a job. 
 
-So how do you actually find these contacts? Let’s go over two approaches. 
+## Strategies for Managing Your Time Well  
 
-## Approach 1- Using Companies to Guide Your Outreach 
+**Set priorities.** On a scale of 1-5 (5 being the highest), where does your job search fall as a priority in your life right now? How important to you is finding a job sooner vs. later? Your answer should determine how you prioritize your job search activities in your daily life. We all have many things we are balancing in our lives day by day, and sometimes it is not as ‘easy’ or carefree’ as we’d like — but the effort is well worth it, when you consider why you are pursuing what you’re pursuing, and why you’ve just spent the past several months (or even longer) of blood, sweat and tears in completing your program.
 
-1. **Make a list** of companies that interest you (have a specific reason — maybe you love their blog, maybe their tech stack is particularly cool to you, or perhaps you’re an avid user of their product). Start with 20 companies. (If you’re not sure what companies are out there, or what companies might interest you, poke around on themuse.com, glassdoor.com, inc.com, forbes.com, techcrunch.com, and linkedin.com to get some inspiration.)
-2. Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.  
-  - Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “engineers”, “developers”, and people who work in human resources or recruiting (sometimes called “talent acquisition”).
-  - List at least 1 of each kind of employee (1 dev and 1 person working in recruiting/HR) in your Tracker on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer. 
-3. **Locate the contact information** for these people. This [website](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can help you figure that out. 
-4. **Draft emails** to the people you plan to reach out to. Again we’ll cover communication best practices in future lessons, but here’s an example of an upcoming [lesson] (https://github.com/learn-co-curriculum/careers-opening-the-line-of-communication) that’ll help you with this. 
-5. **Send those drafts** to your coach
-6. Once you get feedback, **send your polished emails** to these potential new contacts!
+**Make a defined schedule.** Going to the gym might not be something you’re excited about, but if you plan the time in advance, block it out on your calendar, and gather your gym accessories together ahead of time, etc., getting yourself there will likely be much easier. In the same way, making a job search plan will make you more motivated to get started and stick to your plan. Just like forming a habit of going to the gym can be easier.
 
+In other words, don’t just keep it in your head. Block out specific chunks of time, in your calendar, in Trello, or in whatever personal time management tool that you use. Blocking out the time somewhere where you can see it makes it more ‘real,’ and more likely that you will remember, and prioritize, that activity.
 
-## Approach #2 - Using Job Postings to Guide Your Outreach 
+Perhaps you want to set aside X hours each morning for coding and Git commits, X hours every afternoon for company research and outreaches, X hours for follow-ups and cover letter drafts, and X day a week for writing a blog post. Only you truly know how you best manage your productivity, so leverage that into your job search. If you are working with a Career Coach and would like guidance, ask them — they can help you formulate a smart time management plan.
 
-1. Use sites like LinkedIn, StackoverflowCareers, Indeed, and other niche job search sites to create a list of jobs that you’re interested in. Start with 20. 
-2. Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.  
-  - Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “engineers”, “developers”, and people who work in human resources or recruiting (sometimes called “talent acquisition”).
-  - List at least 1 of each kind of employee (1 dev and 1 person working in recruiting/HR) in your Tracker on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer. 
-3. **Locate the contact information** for these people. This [website](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can help you figure that out. 
-4. **Draft emails** to the people you plan to reach out to. Again we’ll cover communication best practices in future lessons, but here’s an example of an upcoming [lesson] (https://github.com/learn-co-curriculum/careers-opening-the-line-of-communication) that’ll help you with this. 
-5. **Send those drafts** to your coach
-6. Once you get feedback, **send your polished emails** to these potential new contacts!
+In a future lesson we will go into more detail on what you should be doing post-graduation to stay active, keep your skills sharp, and ensure your market  competitiveness. You can find a [sample schedule here](https://github.com/learn-co-curriculum/module-6-post-work) as well. 
 
-Notice that both of these approaches are very similar. The main difference is in the first step. Are you looking at companies? Or are you looking at jobs? And if you’re looking at jobs, then it’s a good idea to prioritize finding the contact info of someone who works in HR since the company is actively looking to fill positions. 
+## Monitor and Tweak As Needed
 
-After that, you’ll draft emails and send them to your coach for review. Since we expect three emails from you every day, it might be best to plan ahead so that you can get the appropriate feedback from your coach. In other words, if you still haven’t sent out your emails for Tuesday, then don’t wait until Tuesday morning to get feedback from your coach!
+Sometimes in life things don’t go as planned, unexpected things come up, etc. If you notice a pattern surfacing of not being able to meet your job search activity goals each week that you’ve set for yourself, that’s a perfect opportunity to chat with your coach. They can help you to identify what’s getting in the way, and ways to re-calibrate your action plan. That’s one reason why we set you up with a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896), so you can monitor/track your activities to help you stay on track, build momentum, and get the results you want.
 
-This might sound like a lot of work, and in fact, it is. But when you’re prepared, focused, and have a plan of action, you’ll stop thinking of it as a chore and instead just one big exciting step to get you closer to where you want to be!
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-job-search-tracker'>Careers Job Search Tracker</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-job-search-tracker'>Job Search Action Plan </a> on Learn.co and start learning to code for free.</p>
+In summary, smart time management is key to staying on track and reaching your job search goals. Through setting priorities, scheduling out your activities, and tracking your progress on an ongoing basis you will be significantly more equipped to ensure your actions are moving you forward in the right direction.
