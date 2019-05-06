@@ -20,9 +20,9 @@ Since a successful job search requires commitment and consistent action and you 
 
 In other words, don’t just keep it in your head. Block out specific chunks of time, in your calendar, in Trello, or in whatever personal time management tool that you use. Blocking out the time somewhere where you can see it makes it more ‘real,’ and more likely that you will remember, and prioritize, that activity.
 
-Perhaps you want to set aside X hours each morning for coding and Git commits, X hours every afternoon for company research and outreaches, X hours for follow-ups and cover letter drafts, and X day a week for writing a blog post. Only you truly know how you best manage your productivity, so leverage that into your job search. If you are working with a Career Coach and would like guidance, ask them — they can help you formulate a smart time management plan.
+Perhaps you want to set aside X hours each morning for practicing your skills or working on a project, X hours every afternoon for company research and outreaches, X hours for follow-ups and cover letter drafts, and X day a week for writing a blog post. Only you truly know how you best manage your productivity, so leverage that into your job search. If you are working with a Career Coach and would like guidance, ask them — they can help you formulate a smart time management plan.
 
-In a future lesson we will go into more detail on what you should be doing post-graduation to stay active, keep your skills sharp, and ensure your market  competitiveness. You can find a [sample schedule here](https://github.com/learn-co-curriculum/module-6-post-work) as well. 
+In a future lesson we will go into more detail on what you should be doing post-graduation to stay active, keep your skills sharp, and ensure your market  competitiveness. 
 
 ## Monitor and Tweak As Needed
 
